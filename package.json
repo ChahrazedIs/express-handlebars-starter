@@ -1,0 +1,16 @@
+{
+  "name": "starter-express-handlebars",
+  "version": "1.0.0",
+  "description": "A simple nodejs starter using express and handlebars",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Chahrazed Ismail",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.1",
+    "path": "^0.12.7"
+  }
+}
